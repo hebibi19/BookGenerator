@@ -14,29 +14,29 @@ Prior to working with the application ensure you have downloaded all files prope
 - User Profile Information
 
 ### Register User [POST]
-#### http://localhost:5000/home/users/
+#### localhost:5000/home/users/
 
 ### User Log-in [POST]
-#### http://localhost:5000/home/users/login
+#### localhost:5000/home/users/login
 
 ### User Profile [GET]
-#### http://localhost:5000/home/users/me
+#### localhost:5000/home/users/me
 
 ## Books Routes
 ### Generate New Book [GET]
-#### http://localhost:5000/home/books/newBook
+#### localhost:5000/home/books/newBook
 
 ### Get All Books [GET]
-#### http://localhost:5000/home/books/
+#### localhost:5000/home/books/
 
 ### Save Book [POST]
-#### http://localhost:5000/home/books/:id
+#### localhost:5000/home/books/:id
 
 ### Update Book [PUT]
-#### http://localhost:5000/home/books/:id
+#### localhost:5000/home/books/:id
 
 ### Delete Book [DELETE]
-#### http://localhost:5000/home/books/:id
+#### localhost:5000/home/books/:id
 
 
 ## Built Using
