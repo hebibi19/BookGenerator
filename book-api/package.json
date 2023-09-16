@@ -1,0 +1,14 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "description": "Utilizes Open Library API to generate books",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacqueline Molina",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^8.1.2"
+  }
+}
