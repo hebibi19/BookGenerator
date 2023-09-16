@@ -23,6 +23,12 @@ Prior to working with the application ensure you have downloaded all files prope
 #### localhost:5000/home/users/me
 
 ## Books Routes
+- Generate New Book
+- Get all books in Database
+- Save book to database
+- Update book in database
+- Delete book in database
+
 ### Generate New Book [GET]
 #### localhost:5000/home/books/newBook
 
